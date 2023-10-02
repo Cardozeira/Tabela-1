@@ -1,0 +1,15 @@
+td {
+  border: thick rgb(140, 136, 136);
+    padding: 50px;
+    
+  } 
+  table {
+      width: 20%;
+      border-collapse: collapse;
+      margin-bottom: 60px;
+    }
+
+    th, td {
+      padding: 50px;
+      border: thick solid #ddd;
+    }
